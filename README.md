@@ -1,2 +1,1 @@
-# test-unit-01
-test-unit-01
+Test repository for learning Unity and Git interactions
