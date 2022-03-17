@@ -1,1 +1,1 @@
-Test repository for learning Unity and Git interactions
+Test repository for learning Unity and GitHub interactions
